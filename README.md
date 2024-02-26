@@ -5,7 +5,7 @@ This full E-Commerce API build using Express and Mongo. Here it contains all the
 ## Setup
  
 ```
-    $ git clone https://github.com/ashu2764/ecomApi.git
+    $ git clone https://github.com/ashu2764/EcommApiNode.git
     $ npm install
 ```
   - Duplicate and database.configexample.js as database.confi.js and fill in environment variables
